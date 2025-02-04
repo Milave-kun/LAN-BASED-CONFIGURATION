@@ -325,6 +325,12 @@ As we can see, we successfully access the Server from the CLIENT. And make serve
 <br>
 Now we can create normalprojects in VB using this SQL Connection.
 
+## Application : Client
+Just reapply our last topic about MODULE and we can create new project out of it.
+<br>
+<a href="https://github.com/Milave-kun/Registration-Form-ASP.NET">
+Registration Form
+</a>
 
 
 
